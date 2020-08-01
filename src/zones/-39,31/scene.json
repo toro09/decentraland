@@ -1,0 +1,34 @@
+{
+  "display": {
+    "title": "EM Garden",
+    "favicon": "favicon_asset"
+  },
+  "owner": "",
+  "contact": {
+    "name": "author-name",
+    "email": ""
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "0,0"
+    ],
+    "base": "0,0"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
+  "policy": {
+    "contentRating": "E",
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": ""
+  },
+  "source": {
+    "origin": "builder",
+    "projectId": "627b17ab-c31d-4f7c-9f2e-fa571de1a0db"
+  }
+}
