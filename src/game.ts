@@ -27,7 +27,7 @@ const bloomingPinkAcaciaTree = new Entity('bloomingPinkAcaciaTree')
 engine.addEntity(bloomingPinkAcaciaTree)
 bloomingPinkAcaciaTree.setParent(_scene)
 const transform3 = new Transform({
-  position: new Vector3(3, 0, 2),
+  position: new Vector3(7, 0, 3),
   rotation: new Quaternion(0, 0, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
