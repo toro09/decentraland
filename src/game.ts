@@ -27,7 +27,7 @@ const bloomingPinkAcaciaTree = new Entity('bloomingPinkAcaciaTree')
 engine.addEntity(bloomingPinkAcaciaTree)
 bloomingPinkAcaciaTree.setParent(_scene)
 const transform3 = new Transform({
-  position: new Vector3(8, 0, 10.5),
+  position: new Vector3(3, 0, 2),
   rotation: new Quaternion(0, 0, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
@@ -42,7 +42,7 @@ const redLeafShrub = new Entity('redLeafShrub')
 engine.addEntity(redLeafShrub)
 redLeafShrub.setParent(_scene)
 const transform4 = new Transform({
-  position: new Vector3(5.5, 0, 9.5),
+  position: new Vector3(5.5, 0, 4.5),
   rotation: new Quaternion(0, 0, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
@@ -57,7 +57,7 @@ const bookshelfBench = new Entity('bookshelfBench')
 engine.addEntity(bookshelfBench)
 bookshelfBench.setParent(_scene)
 const transform5 = new Transform({
-  position: new Vector3(10, 0, 10.5),
+  position: new Vector3(3, 0, 7),
   rotation: new Quaternion(0, 0, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
@@ -72,7 +72,7 @@ const smallGreenGrassMound = new Entity('smallGreenGrassMound')
 engine.addEntity(smallGreenGrassMound)
 smallGreenGrassMound.setParent(_scene)
 const transform6 = new Transform({
-  position: new Vector3(10.5, 0, 13.5),
+  position: new Vector3(5, 0, 3.5),
   rotation: new Quaternion(0, 0, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
